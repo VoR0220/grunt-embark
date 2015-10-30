@@ -10,7 +10,7 @@
   "license": "ISC",
   "homepage": "",
   "dependencies": {
-    "embark-framework": "https://github.com/VoR0220/embark-framework.git#solidityRevamp",
+    "embark-framework": "https://github.com/VoR0220/embark-framework.git#timeWarp",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-coffee": "^0.13.0",
     "grunt-contrib-concat": "^0.5.1",
